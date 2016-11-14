@@ -1,6 +1,6 @@
 # TodoList PostgreSQL
 
-[![Build Status](https://travis-ci.org/IBM-Swift/TodoList-PostgreSQL.svg?branch=master)](https://travis-ci.org/IBM-Swift/TodoList-PostgreSQL)  [![Swift 3.0](https://img.shields.io/badge/Swift%203.0-blue.svg)](https://swift.org/download/#snapshots)
+[![Build Status](https://travis-ci.org/IBM-Swift/TodoList-PostgreSQL.svg?branch=master)](https://travis-ci.org/IBM-Swift/TodoList-PostgreSQL) [![Swift 3](https://img.shields.io/badge/Swift-3.0%20RELEASE-orange.svg?style=flat)](https://swift.org/download/#snapshots)
 
 Implements the [TodoListAPI](https://github.com/IBM-Swift/todolist-api) for TodoList.
 
