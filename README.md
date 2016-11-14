@@ -2,8 +2,6 @@
 
 [![Build Status](https://travis-ci.org/IBM-Swift/TodoList-PostgreSQL.svg?branch=master)](https://travis-ci.org/IBM-Swift/TodoList-PostgreSQL) [![Swift 3](https://img.shields.io/badge/Swift-3.0%20RELEASE-orange.svg?style=flat)](https://swift.org/download/#snapshots)
 
-Implements the [TodoListAPI](https://github.com/IBM-Swift/todolist-api) for TodoList.
-
 ## Quick start:
 
 1. Download [Swift 3] (https://swift.org/downloads)
@@ -13,9 +11,6 @@ Implements the [TodoListAPI](https://github.com/IBM-Swift/todolist-api) for Todo
 
 3. Clone the TodoList PostgreSQL repository
   `git clone https://github.com/IBM-Swift/todolist-postgresql`
-
-4. Fetch the test cases by running:
-  `git clone https://github.com/IBM-Swift/todolist-tests Tests`
 
 5. Compile the library with `swift build -Xcc -I/usr/local/include -Xlinker -L/usr/local/lib` or create an XCode project with `swift package generate-xcodeproj`
 
